@@ -1,0 +1,45 @@
+[
+  {
+    "id": 1,
+    "image": "https://i.ibb.co.com/zHRcDvB/mexican-tacos.jpg",
+    "name": "Margherita Pizza",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "price": 8.99
+  },
+  {
+    "id": 2,
+    "image": "https://i.ibb.co.com/FqRS3kS/sushi-plate.jpg",
+    "name": "Cheeseburger",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "price": 6.99
+  },
+  {
+    "id": 3,
+    "image": "https://i.ibb.co.com/zHRcDvB/mexican-tacos.jpg",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+
+    "name": "Caesar Salad",
+    "price": 5.99
+  },
+  {
+    "id": 4,
+    "image": "https://i.ibb.co.com/FqRS3kS/sushi-plate.jpg",
+    "name": "Spaghetti Bolognese",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "price": 10.99
+  },
+  {
+    "id": 5,
+    "image": "https://i.ibb.co.com/FqRS3kS/sushi-plate.jpg",
+    "name": "Sushi Platter",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "price": 15.99
+  },
+  {
+    "id": 6,
+    "image": "https://i.ibb.co.com/zHRcDvB/mexican-tacos.jpg",
+    "name": "Tacos",
+    "description": "Classic Italian pizza topped with fresh tomatoes, mozzarella cheese, and basil leaves.",
+    "price": 7.99
+  }
+]
